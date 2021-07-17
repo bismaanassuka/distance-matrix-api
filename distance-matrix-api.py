@@ -2,7 +2,7 @@ import numpy as np
 import googlemaps
 import pandas as pd
 
-API_key = 'AIzaSyAF2K0eUKUbmwC5fvxEY3a-Yw1IGlG4FPM' #your API here
+API_key = 'AIzaSyAF......' #your API here
 gmaps = googlemaps.Client(key=API_key)
 
 df = pd.read_excel('coordinate.xlsx', engine='openpyxl', sheet_name='Sheet1')
