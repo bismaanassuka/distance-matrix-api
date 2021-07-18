@@ -38,7 +38,7 @@ distance-matrix-api.py
 ```
 
 ## Result
-The result of the completed process will be as below.
+The result of the completed process will be as below as `.csv` file with semicolon `;` separatot.
 
 |     |  1  |  2  |  3  |  4  |  5  |
 |  -  |  -  |  -  |  -  |  -  |  -  |
